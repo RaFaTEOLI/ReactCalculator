@@ -1,0 +1,25 @@
+@font-face {
+  /* font-family: 'Roboto-Mono';
+  src: url('./fonts/RobotoMono-Thin.ttf'); */
+  font-family: 'Kulim-Park';
+  src: url('./fonts/KulimPark-Light.ttf');
+}
+
+* {
+  font-family: 'Kulim-Park', monospace;
+}
+
+body {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  
+  color: #fff;
+  background: linear-gradient(to right, rgb(26, 41, 128), rgb(38, 208, 206));
+}
+
+img.react-logo {
+  width: 20%;
+}
