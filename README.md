@@ -1,1 +1,1 @@
-I developed this calculator in react with Cod3r.
+I developed this calculator using React in a course with Cod3r.
